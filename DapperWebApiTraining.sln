@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperWebApiTraining", "DapperWebApiTraining\DapperWebApiTraining.csproj", "{854F10C2-293F-44D0-8357-3CA1121FF58F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{854F10C2-293F-44D0-8357-3CA1121FF58F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{854F10C2-293F-44D0-8357-3CA1121FF58F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{854F10C2-293F-44D0-8357-3CA1121FF58F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{854F10C2-293F-44D0-8357-3CA1121FF58F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B557F28-2AFF-490C-A3AA-FDA4F0434BB1}
+	EndGlobalSection
+EndGlobal
